@@ -1,7 +1,7 @@
 {
   "name": "gulp-play-assets",
   "version": "0.9.0",
-  "description": "Gulp plugin to build asset files that compatible to versioned assets of play framework",
+  "description": "Gulp plugin to build versioned asset files of play framework",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha test"
