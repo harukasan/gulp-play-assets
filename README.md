@@ -1,5 +1,8 @@
 # gulp-play-assets
 
+[![](https://img.shields.io/npm/v/gulp-play-assets.svg?style=flat-square)![npm](https://img.shields.io/npm/dm/gulp-play-assets.svg?style=flat-square)](https://www.npmjs.com/package/gulp-play-assets)
+[![travis-ci](https://img.shields.io/travis/harukasan/gulp-play-assets.svg?style=flat-square)](https://travis-ci.org/harukasan/gulp-play-assets)
+
 Build asset files compatible to versioned asset files of play framework 2.3 or later.
 
 ## Install
