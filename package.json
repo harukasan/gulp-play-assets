@@ -1,0 +1,33 @@
+{
+  "name": "gulp-play-assets",
+  "version": "0.9.0",
+  "description": "Gulp plugin to build asset files that compatible to versioned assets of play framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harukasan/gulp-play-assets.git"
+  },
+  "keywords": [
+    "playframework",
+    "assets",
+    "sbt-web"
+  ],
+  "author": "MICHII Shunsuke",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/harukasan/gulp-play-assets/issues"
+  },
+  "homepage": "https://github.com/harukasan/gulp-play-assets#readme",
+  "dependencies": {
+    "gulp-util": "^3.0.6",
+    "object-assign": "^4.0.1",
+    "through2": "^2.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^2.3.0",
+    "vinyl": "^0.5.1"
+  }
+}
