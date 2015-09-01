@@ -10,7 +10,7 @@ npm install gulp-play-assets --save-dev
 
 ## Usage
 
-```
+```js
 var gulp = require('gulp');
 var playAssets = require('gulp-play-assets');
 
@@ -30,7 +30,7 @@ public/stylesheets/MD5HASHVALUES-application.css
 
 If you need zipped files, you can use with gulp-gzip:
 
-```
+```js
 var gulp = require('gulp');
 var playAssets = require('gulp-play-assets');
 var gzip = require('gulp-gzip');
@@ -56,7 +56,7 @@ public/stylesheets/MD5HASHVALUES-application.css.gz
 
 ## References:
 
-- http://d.hatena.ne.jp/nazoking/20141207/1417964951#20141207fn3 (in Japanese)
+- http://d.hatena.ne.jp/nazoking/20141207/1417964951 (in Japanese)
 
 ## Lisense
 
